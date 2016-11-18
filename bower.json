@@ -1,0 +1,28 @@
+{
+  "name": "material-time-input",
+  "version": "1.0.0",
+  "authors": [
+    "Dat Nguyen (dattnguyen1991@gmail.com)"
+  ],
+  "description": "Validate input and allow only 24h type of time. Format HH:mm (Ex: 23:50)",
+  "main": "material-time-input.directive.js",
+  "keywords": [
+    "directive",
+    "angular",
+    "time",
+    "input"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.0",
+    "angular-material": "^1.0.1"
+  }
+}
